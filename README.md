@@ -53,7 +53,9 @@ You can explore the full notebook here:
 
 The goal of this project is to demonstrate how Artificial Intelligence can assist in medical image analysis and support healthcare diagnostics.
 <img width="517" height="332"<img width="560" height="343" alt="Screenshot 2026-03-08 084223" src="https://github.com/user-attachments/assets/d63e2d87-ae5b-4a5c-8819-a75a7a2ac1c6" />
- alt="Screenshot 2026-03-08 084215" src="https://github.com/user-attachments/assets/f9c4d1cc-19fa-4d15-8ad5-1645a58582b9" />
+
+ <img width="560" height="343" alt="Screenshot 2026-03-08 084223" src="https://github.com/user-attachments/assets/860dd46c-9f65-41d2-b698-002b601c6e58" />
+
 
 
 ## Author
